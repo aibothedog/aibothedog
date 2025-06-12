@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Python OpenCV**
 
-- 👯 I’m looking to collaborate on [Pisun editor](https://github.com/aibothedog/Pisun-Editor)
-
-- 💬 Ask me about **lua**
+- 💬 Ask me about **lua and pentesting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
