@@ -1,4 +1,4 @@
-<h1 align="center">Привет!, я aibothedog</h1>
+<h1 align="center">Привет!, я Aibo The Dog</h1>
 <h3 align="center">Я тупой долбаеб, но как мне это доказать?</h3>
 <h3 align="center">Мне нужно старнуть СВОЙ ЖЕ РЕПОЗИТОРИЙ!</h3>
 
